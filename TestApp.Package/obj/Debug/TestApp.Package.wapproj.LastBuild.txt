@@ -1,11 +1,11 @@
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\SplashScreen.scale-200.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\LockScreenLogo.scale-200.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\Square150x150Logo.scale-200.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\Square44x44Logo.scale-200.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\StoreLogo.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\Images\Wide310x150Logo.scale-200.png
-D:\Test\DevOps_BootCamp\TestApp\TestApp.Package\bin\AnyCPU\Debug\resources.pri
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\SplashScreen.scale-200.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\LockScreenLogo.scale-200.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\Square150x150Logo.scale-200.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\Square44x44Logo.scale-200.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\StoreLogo.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\Images\Wide310x150Logo.scale-200.png
+D:\Test\DevOps_BootCamp\TestApp\TestApp\TestApp.Package\bin\AnyCPU\Debug\resources.pri
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\Microsoft.Win32.Primitives.dll
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\netstandard.dll
 C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\Microsoft.NET.Build.Extensions\net461\lib\System.AppContext.dll
