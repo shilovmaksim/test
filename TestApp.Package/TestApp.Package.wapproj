@@ -55,6 +55,7 @@
     <TargetPlatformMinVersion>10.0.15063.0</TargetPlatformMinVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageCertificateKeyFile>TestApp.Package_TemporaryKey.pfx</PackageCertificateKeyFile>
+    <PackageCertificateThumbprint>507ee3910d8a1de44cd613d73eb3fe3e27d5270e</PackageCertificateThumbprint>
     <EntryPointProjectUniqueName>..\TestApp.csproj</EntryPointProjectUniqueName>
   </PropertyGroup>
   <ItemGroup>
